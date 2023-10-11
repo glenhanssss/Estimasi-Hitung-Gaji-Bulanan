@@ -1,6 +1,8 @@
-# Hitung-Gaji-Bulanan
+# Estimasi-Hitung-Gaji-Bulanan
 
-Coba aplikasi ini pada link https://colab.research.google.com/drive/11bEZ3164PzkoAndFpyeV27OyScdR-GDN?usp=sharing
+Coba aplikasi ini pada link berikut:
+
+https://colab.research.google.com/drive/1QtR8Ypsvm3FGIofQk6fkict63Ag5COp0?usp=sharing
 
 Notes: 
 
