@@ -9,3 +9,7 @@ https://colab.research.google.com/drive/1QtR8Ypsvm3FGIofQk6fkict63Ag5COp0?usp=sh
 Notes: 
 
 Mohon agar menyesuaikan kembali isi aplikasi dengan konteks (besar pajak dan potongan yang berlaku) perusahaan anda. Ubah pengkondisian dalam kode pada link colab research/ download file *py/ download file *py agar dapat dijalankan pada aplikasi lokal.
+
+Private:
+
+https://drive.google.com/file/d/1THVbuH6Xb3ZPIStLDCPdYQBOLaCF63oK/view?usp=sharing
